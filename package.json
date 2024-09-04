@@ -1,7 +1,7 @@
 {
-    "name": "PrexzyBug-Bot",
+    "name": "+++++++++++",
     "version": "6.0.0",
-    "description": "WhatsApp War Bot Using Nodejs",
+    "description": "))))))))))))))))))",
     "main": "index.js",
     "type": "commonjs",
     "directories": {
@@ -14,7 +14,7 @@
     "scripts": {
         "start": "node index.js"
     },
-    "author": "Prexzyvilla",
+    "author": "==-=-=lla",
     "license": "MIT",
     "dependencies": {
         "@whiskeysockets/baileys": "^6.7.5",
